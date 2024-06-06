@@ -80,7 +80,7 @@ for n in hand:
 minH = list(count.keys())
 heapq.heapify(minH)
 ```
--Creates a min-heap from the unique card values to always access the smallest card.
+- Creates a min-heap from the unique card values to always access the smallest card.
 
 - Group Formation:
 ```
